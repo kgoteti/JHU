@@ -1,4 +1,4 @@
-## Time series summary (csse_covid_19_time_series)
+## Time series summary (csse_covid_19_time_series) edited by Ram Goteti on 9/3/2020
 
 This folder contains daily time series summary tables, including confirmed, deaths and recovered. All data is read in from the daily case report. The time series tables are subject to be updated if inaccuracies are identified in our historical data. The daily reports will not be adjusted in these instances to maintain a record of raw data. 
 
